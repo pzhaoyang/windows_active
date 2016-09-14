@@ -1,0 +1,3 @@
+slmgr /ipk 428WT-NPRYV-FW2VM-FQJPX-7XH3H
+slmgr /upk 428WT-NPRYV-FW2VM-FQJPX-7XH3H
+slmgr /ato
